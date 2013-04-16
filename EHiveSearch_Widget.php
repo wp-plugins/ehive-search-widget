@@ -44,7 +44,7 @@ class eHiveSearch_Widget extends WP_Widget {
 	function widget($args, $instance) {
 
 		if (isset($instance['widget_css_enabled'])) {
-			wp_register_style($handle = 'eHiveSearchWidgetCSS', $src = plugins_url('eHiveSearch_Widget.css', '/eHiveSearch_Widget/css/eHiveSearch_Widget.css'), $deps = array(), $ver = '0.0.1', $media = 'all');
+			wp_register_style($handle = 'eHiveSearchWidgetCSS', $src = plugins_url('eHiveSearch_Widget.css', '/ehive-search-widget/css/eHiveSearch_Widget.css'), $deps = array(), $ver = '0.0.1', $media = 'all');
 			wp_enqueue_style( 'eHiveSearchWidgetCSS');
 		}
 
