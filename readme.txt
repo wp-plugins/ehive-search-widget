@@ -4,7 +4,7 @@ Donate link:http://ehive.com/what_is_ehive
 Tags: ehive, collection, museum, archive, history
 Requires at least: 3.3.1
 Tested up to: 3.5.1
-Stable tag: 3.5.1
+Stable tag: 2.1.1
 License: GPL2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
